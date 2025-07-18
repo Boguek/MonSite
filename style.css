@@ -1,0 +1,47 @@
+.content{
+    background-color: purple;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    max-width: 40vw;
+    border-radius: 7px;
+}
+#btn{
+    padding: 2px 3px;
+    color: brown;
+    text-transform: uppercase;
+    /* capitalise Pour mettre la premiere lettre en majuscule */
+    /* uppercase Pour mettre tout les lettres en majuscule */
+    letter-spacing: 2px;
+
+}
+.content2{
+    background-color: rgba(219, 52, 177, 0.877);
+    color: white;
+    padding: 16px;
+    text-align: center;
+    max-width: 40vw;
+     border-radius: 7px;
+     /* bord de arrodir les coins */
+}
+#title{
+    color: aqua;
+}
+#title2{
+    color: blue;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: serif;
+}
+.base{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+.b_titre{
+    text-align: center;
+    font-size: 32px;
+    /* pour changer ecriture */
+    font-weight: 700;
+}
